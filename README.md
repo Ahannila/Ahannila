@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahannila
-- 👀 I’m interested in machine learning and algorithms. 
-- 🌱 I’m currently learning Mathematics for machine learning and operating systems!
+- 👀 I’m interested in Quantitative finance and neural networks
+- 🌱 I’m currently doing my bachelor's thesis on using Convolutional neural netwoks in algorithmic trading.
 - 📫 How to reach me arttu.hannila@helsinki.fi
 
 <!---
